@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/co-creation-canvas-v361/blob/main/full_app_screenshot.png" />
+<img width="1200" height="475" alt="screenshot" src="https://github.com/smilesABZ/co-creation-canvas-v361/blob/main/full_app_screenshot.png" />
 </div>
 
 # Run and deploy the whiteboard, 1 oper user

@@ -4,7 +4,13 @@
 
 # Run and deploy the whiteboard, 1 per user
 
-This contains everything you need to run your app locally.
+This contains everything you need to run your app locally, excluding Node.Js
+## Setup
+
+**Prerequisites:** Node.js 
+
+The `node_modules` folder is not included in this repository (see `.gitignore`). You must install dependencies locally:
+
 
 
 ## Run Locally

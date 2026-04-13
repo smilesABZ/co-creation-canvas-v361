@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="screenshot" src="https://github.com/smilesABZ/co-creation-canvas-v361/blob/main/full_app_screenshot.png" />
 </div>
 
-# Run and deploy the whiteboard, 1 oper user
+# Run and deploy the whiteboard, 1 per user
 
 This contains everything you need to run your app locally.
 
